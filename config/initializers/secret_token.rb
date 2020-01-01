@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Rails4bgn::Application.config.secret_token = '4780fcb30ec55124faa2be97f651fb900b1a0b38b7e4d8e431584d65ea980c20887e0346d6674ca9fb922fc0f6330097340dff3cc142ca2af553bdd8385629c1'
+Rails4bgn::Application.config.secret_token = '00a0fe18a3b4b4c7344fa0e43113b4baddfe07ec38468d7976437a10265201d0021e00b8b43209f2ff447c8b6e1d0424e820199d2e9199b5176a5e107bf0406d'
